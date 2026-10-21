@@ -1,0 +1,500 @@
+{
+  "objects": [
+    {
+      "name": "Park_1",
+      "safeName": "Park_1",
+      "bakedDataResourceName": "Park",
+      "paletteResourceName": "Park_Palette",
+      "size": [
+        19,
+        2,
+        34
+      ],
+      "voxelCount": 661,
+      "x": -13.700000000000003,
+      "y": 0.0,
+      "z": -1.8000000000000007,
+      "isGround": true
+    },
+    {
+      "name": "Park_m1_1",
+      "safeName": "Park_m1_1",
+      "bakedDataResourceName": "Park_m1",
+      "paletteResourceName": "Park_m1_Palette",
+      "size": [
+        3,
+        4,
+        6
+      ],
+      "voxelCount": 34,
+      "x": -13.100000000000001,
+      "y": 0.0,
+      "z": 0.1999999999999993,
+      "isGround": false
+    },
+    {
+      "name": "Park_m2_1",
+      "safeName": "Park_m2_1",
+      "bakedDataResourceName": "Park_m2",
+      "paletteResourceName": "Park_m2_Palette",
+      "size": [
+        11,
+        12,
+        14
+      ],
+      "voxelCount": 297,
+      "x": -13.100000000000001,
+      "y": 0.0,
+      "z": 2.0,
+      "isGround": false
+    },
+    {
+      "name": "Park_m3_1",
+      "safeName": "Park_m3_1",
+      "bakedDataResourceName": "Park_m3",
+      "paletteResourceName": "Park_m3_Palette",
+      "size": [
+        8,
+        15,
+        7
+      ],
+      "voxelCount": 309,
+      "x": -14.100000000000001,
+      "y": 0.0,
+      "z": -1.0,
+      "isGround": false
+    },
+    {
+      "name": "Smaller_apartment_building_1",
+      "safeName": "Smaller_apartment_building_1",
+      "bakedDataResourceName": "Smaller_apartment_building",
+      "paletteResourceName": "Smaller_apartment_building_Palette",
+      "size": [
+        54,
+        46,
+        26
+      ],
+      "voxelCount": 39565,
+      "x": -13.800000000000002,
+      "y": -0.09999999999999964,
+      "z": 15.800000000000002,
+      "isGround": false
+    },
+    {
+      "name": "Bigger_apartment_building_1",
+      "safeName": "Bigger_apartment_building_1",
+      "bakedDataResourceName": "Bigger_apartment_building",
+      "paletteResourceName": "Bigger_apartment_building_Palette",
+      "size": [
+        30,
+        45,
+        69
+      ],
+      "voxelCount": 45805,
+      "x": 10.200000000000001,
+      "y": 0.0,
+      "z": -0.7999999999999998,
+      "isGround": false
+    },
+    {
+      "name": "Wacdonalds_Building_1",
+      "safeName": "Wacdonalds_Building_1",
+      "bakedDataResourceName": "Wacdonalds_Building",
+      "paletteResourceName": "Wacdonalds_Building_Palette",
+      "size": [
+        72,
+        53,
+        50
+      ],
+      "voxelCount": 33582,
+      "x": 0.0,
+      "y": 0.0,
+      "z": 15.8,
+      "isGround": false
+    },
+    {
+      "name": "Wacdonalds_sign_1",
+      "safeName": "Wacdonalds_sign_1",
+      "bakedDataResourceName": "Wacdonalds_sign",
+      "paletteResourceName": "Wacdonalds_sign_Palette",
+      "size": [
+        11,
+        19,
+        3
+      ],
+      "voxelCount": 341,
+      "x": -3.8000000000000003,
+      "y": 0.0,
+      "z": 15.899999999999999,
+      "isGround": false
+    },
+    {
+      "name": "Asian_restaurant_1",
+      "safeName": "Asian_restaurant_1",
+      "bakedDataResourceName": "Asian_restaurant",
+      "paletteResourceName": "Asian_restaurant_Palette",
+      "size": [
+        20,
+        25,
+        37
+      ],
+      "voxelCount": 5199,
+      "x": -13.700000000000001,
+      "y": 0.0,
+      "z": -9.2,
+      "isGround": false
+    },
+    {
+      "name": "Small_tree_1",
+      "safeName": "Small_tree_1",
+      "bakedDataResourceName": "Small_tree",
+      "paletteResourceName": "Small_tree_Palette",
+      "size": [
+        5,
+        9,
+        4
+      ],
+      "voxelCount": 86,
+      "x": -0.09999999999999964,
+      "y": 0.0,
+      "z": 2.4000000000000004,
+      "isGround": false
+    },
+    {
+      "name": "Small_tree_m10_1",
+      "safeName": "Small_tree_m10_1",
+      "bakedDataResourceName": "Small_tree_m10",
+      "paletteResourceName": "Small_tree_m10_Palette",
+      "size": [
+        4,
+        9,
+        5
+      ],
+      "voxelCount": 78,
+      "x": -4.1,
+      "y": 0.0,
+      "z": -5.299999999999999,
+      "isGround": false
+    },
+    {
+      "name": "Small_tree_m11_1",
+      "safeName": "Small_tree_m11_1",
+      "bakedDataResourceName": "Small_tree_m11",
+      "paletteResourceName": "Small_tree_m11_Palette",
+      "size": [
+        4,
+        9,
+        5
+      ],
+      "voxelCount": 78,
+      "x": -4.1,
+      "y": 0.0,
+      "z": -8.799999999999999,
+      "isGround": false
+    },
+    {
+      "name": "Small_tree_m12_1",
+      "safeName": "Small_tree_m12_1",
+      "bakedDataResourceName": "Small_tree_m12",
+      "paletteResourceName": "Small_tree_m12_Palette",
+      "size": [
+        4,
+        9,
+        5
+      ],
+      "voxelCount": 78,
+      "x": -4.1,
+      "y": 0.0,
+      "z": -0.29999999999999893,
+      "isGround": false
+    },
+    {
+      "name": "Small_tree_m13_1",
+      "safeName": "Small_tree_m13_1",
+      "bakedDataResourceName": "Small_tree_m13",
+      "paletteResourceName": "Small_tree_m13_Palette",
+      "size": [
+        4,
+        9,
+        5
+      ],
+      "voxelCount": 78,
+      "x": -4.1,
+      "y": 0.0,
+      "z": 3.5999999999999996,
+      "isGround": false
+    },
+    {
+      "name": "Small_tree_m14_1",
+      "safeName": "Small_tree_m14_1",
+      "bakedDataResourceName": "Small_tree_m14",
+      "paletteResourceName": "Small_tree_m14_Palette",
+      "size": [
+        5,
+        9,
+        4
+      ],
+      "voxelCount": 86,
+      "x": 0.5,
+      "y": 0.0,
+      "z": 3.5,
+      "isGround": false
+    },
+    {
+      "name": "Big_tree_1",
+      "safeName": "Big_tree_1",
+      "bakedDataResourceName": "Big_tree",
+      "paletteResourceName": "Big_tree_Palette",
+      "size": [
+        8,
+        15,
+        6
+      ],
+      "voxelCount": 281,
+      "x": 4.3,
+      "y": 0.0,
+      "z": -0.5999999999999996,
+      "isGround": false
+    },
+    {
+      "name": "Big_tree_cluster_1",
+      "safeName": "Big_tree_cluster_1",
+      "bakedDataResourceName": "Big_tree_cluster",
+      "paletteResourceName": "Big_tree_cluster_Palette",
+      "size": [
+        72,
+        18,
+        24
+      ],
+      "voxelCount": 2893,
+      "x": 0.2999999999999998,
+      "y": 0.0,
+      "z": -8.800000000000002,
+      "isGround": false
+    },
+    {
+      "name": "Medium_tree_cluster_1",
+      "safeName": "Medium_tree_cluster_1",
+      "bakedDataResourceName": "Medium_tree_cluster",
+      "paletteResourceName": "Medium_tree_cluster_Palette",
+      "size": [
+        48,
+        18,
+        24
+      ],
+      "voxelCount": 2636,
+      "x": -13.5,
+      "y": 0.0,
+      "z": 8.1,
+      "isGround": false
+    },
+    {
+      "name": "XS_tree_cluster_1",
+      "safeName": "XS_tree_cluster_1",
+      "bakedDataResourceName": "XS_tree_cluster",
+      "paletteResourceName": "XS_tree_cluster_Palette",
+      "size": [
+        16,
+        17,
+        24
+      ],
+      "voxelCount": 998,
+      "x": 3.9000000000000004,
+      "y": 0.0,
+      "z": 8.0,
+      "isGround": false
+    },
+    {
+      "name": "Small_tree_cluster_1",
+      "safeName": "Small_tree_cluster_1",
+      "bakedDataResourceName": "Small_tree_cluster",
+      "paletteResourceName": "Small_tree_cluster_Palette",
+      "size": [
+        26,
+        18,
+        25
+      ],
+      "voxelCount": 1586,
+      "x": 10.4,
+      "y": 0.0,
+      "z": 15.800000000000002,
+      "isGround": false
+    },
+    {
+      "name": "Unnamed_56_1",
+      "safeName": "Unnamed_56_1",
+      "bakedDataResourceName": "Unnamed_56",
+      "paletteResourceName": "Unnamed_56_Palette",
+      "size": [
+        18,
+        17,
+        19
+      ],
+      "voxelCount": 3247,
+      "x": -6.900000000000002,
+      "y": 0.0,
+      "z": -8.400000000000002,
+      "isGround": false
+    },
+    {
+      "name": "Unnamed_58_1",
+      "safeName": "Unnamed_58_1",
+      "bakedDataResourceName": "Unnamed_58",
+      "paletteResourceName": "Unnamed_58_Palette",
+      "size": [
+        19,
+        17,
+        22
+      ],
+      "voxelCount": 3263,
+      "x": 1.0999999999999996,
+      "y": 0.0,
+      "z": 0.8000000000000007,
+      "isGround": false
+    },
+    {
+      "name": "Unnamed_60_1",
+      "safeName": "Unnamed_60_1",
+      "bakedDataResourceName": "Unnamed_60",
+      "paletteResourceName": "Unnamed_60_Palette",
+      "size": [
+        19,
+        17,
+        22
+      ],
+      "voxelCount": 3090,
+      "x": 5.6,
+      "y": 0.0,
+      "z": 0.6999999999999993,
+      "isGround": false
+    },
+    {
+      "name": "Unnamed_62_1",
+      "safeName": "Unnamed_62_1",
+      "bakedDataResourceName": "Unnamed_62",
+      "paletteResourceName": "Unnamed_62_Palette",
+      "size": [
+        18,
+        17,
+        19
+      ],
+      "voxelCount": 3247,
+      "x": -6.900000000000002,
+      "y": -3.3306690738754696e-16,
+      "z": 0.40000000000000036,
+      "isGround": false
+    },
+    {
+      "name": "Unnamed_64_1",
+      "safeName": "Unnamed_64_1",
+      "bakedDataResourceName": "Unnamed_64",
+      "paletteResourceName": "Unnamed_64_Palette",
+      "size": [
+        18,
+        17,
+        19
+      ],
+      "voxelCount": 3247,
+      "x": 0.0,
+      "y": 0.0,
+      "z": 8.6,
+      "isGround": false
+    },
+    {
+      "name": "Unnamed_68_1",
+      "safeName": "Unnamed_68_1",
+      "bakedDataResourceName": "Unnamed_68",
+      "paletteResourceName": "Unnamed_68_Palette",
+      "size": [
+        128,
+        3,
+        128
+      ],
+      "voxelCount": 34104,
+      "x": -16.8,
+      "y": -0.40000000000000036,
+      "z": -12.5,
+      "isGround": true
+    },
+    {
+      "name": "Unnamed_70_1",
+      "safeName": "Unnamed_70_1",
+      "bakedDataResourceName": "Unnamed_70",
+      "paletteResourceName": "Unnamed_70_Palette",
+      "size": [
+        128,
+        3,
+        54
+      ],
+      "voxelCount": 14101,
+      "x": -16.8,
+      "y": -0.40000000000000036,
+      "z": 13.1,
+      "isGround": true
+    },
+    {
+      "name": "Unnamed_72_1",
+      "safeName": "Unnamed_72_1",
+      "bakedDataResourceName": "Unnamed_72",
+      "paletteResourceName": "Unnamed_72_Palette",
+      "size": [
+        52,
+        3,
+        128
+      ],
+      "voxelCount": 13804,
+      "x": 8.8,
+      "y": -0.40000000000000036,
+      "z": -12.5,
+      "isGround": true
+    },
+    {
+      "name": "Unnamed_74_1",
+      "safeName": "Unnamed_74_1",
+      "bakedDataResourceName": "Unnamed_74",
+      "paletteResourceName": "Unnamed_74_Palette",
+      "size": [
+        52,
+        3,
+        54
+      ],
+      "voxelCount": 5906,
+      "x": 8.8,
+      "y": -0.40000000000000036,
+      "z": 13.1,
+      "isGround": true
+    },
+    {
+      "name": "Unnamed_76_1",
+      "safeName": "Unnamed_76_1",
+      "bakedDataResourceName": "Unnamed_76",
+      "paletteResourceName": "Unnamed_76_Palette",
+      "size": [
+        14,
+        16,
+        7
+      ],
+      "voxelCount": 509,
+      "x": 3.0999999999999996,
+      "y": -1.0,
+      "z": -3.700000000000001,
+      "isGround": false
+    },
+    {
+      "name": "Unnamed_78_1",
+      "safeName": "Unnamed_78_1",
+      "bakedDataResourceName": "Unnamed_78",
+      "paletteResourceName": "Unnamed_78_Palette",
+      "size": [
+        12,
+        7,
+        16
+      ],
+      "voxelCount": 654,
+      "x": -2.1999999999999997,
+      "y": -0.2999999999999998,
+      "z": 2.3000000000000003,
+      "isGround": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8330146d78821b04292fa50f75fdb72d, type: 3}
+  m_Name: SplitBombDefinition
+  m_EditorClassIdentifier:
+  visualPrefab: {fileID: 919132149155446097, guid: 8e45320b0e6bb8e4db8ec8971a330c82, type: 3}
+  visualLocalEulerAngles: {x: 0, y: 0, z: 0}
+  visualLocalScale: {x: 0.35, y: 0.35, z: 0.35}
+  fuseSeconds: 3
+  damage: 30
+  damageRadius: 5
+  power: 1
+  minDamageFalloff: 0.35
+  knockbackForcePerDamage: 0.45
+  knockbackUpwardBias: 0.7
+  knockbackRadiusMultiplier: 1.3
+  selfDamageMultiplier: 0.5
+  detonationEffects:
+  - {fileID: 11400000, guid: a2c5947feb4b55061b3d03025f884c0d, type: 2}
